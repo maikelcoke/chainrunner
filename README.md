@@ -66,6 +66,7 @@ You can test your model instantly in the Chain Runner 3D Preview Client:
 
 If you have questions or run into issues, join our community:
 
+* **Overview**: [https://linktr.ee/chainrunner2079](https://linktr.ee/chainrunner2079)
 * **Discord:** [https://discord.gg/VayJJVRja7](https://discord.gg/VayJJVRja7)
 * **Email:** [chainrunner@tycoono.me](mailto:chainrunner@tycoono.me)
 
