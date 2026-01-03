@@ -1,12 +1,12 @@
 # Chain Runner 2079 - Content Creation Guide
 
-Thank you for contributing to **Chain Runner 2079**! Your creativity helps build the dystopian world of Tycoopolis. Chain Runner 2079 is free-to-play and relies on community support. 
+Thank you for contributing to **Chain Runner 2079**! Your creativity helps build the dystopian world of Chain Runner. The game will be free-to-play and relies on community support. 
 
 ---
 
 ## 🛠 Prerequisites
 
-To create buildings and signs for the game, you will need **Blockbench** (a free, open-source 3D modeling tool).
+To create buildings for the game, you will need **Blockbench** (a free, open-source 3D modeling tool).
 
 * **Download Blockbench:** [https://www.blockbench.net/](https://www.blockbench.net/)
 * **Download the Building Template:** [Insert Template URL Here]
@@ -40,12 +40,12 @@ There are three specific colors available for neon signs. Use the suffix `_Ad_(C
 
 ## 📤 Export Settings
 
-When you are ready to export your model from Blockbench, use the **glTF Export** and apply these settings:
+When you are ready to export your model from Blockbench, use the **glTF Export** (*File -> Export -> glTF Export*) and apply these settings:
 
-1.  **Format:** glTF (ASCII) - *Standard*
+1.  **Format:** ASCII (glTF) - *Standard*
 2.  **Model Export Scale:** `2` (Adjust this value if you intend to make significantly larger or smaller buildings).
 3.  **Includes:** * **Embed Textures:** OFF
-    * **Export Groups:** OFF
+    * **Export Groups as Armature:** OFF
     * **Export Animations:** OFF
     * *We only require the Mesh data.*
 
