@@ -44,7 +44,8 @@ When you are ready to export your model from Blockbench, use the **glTF Export**
 
 1.  **Format:** ASCII (glTF) - *Standard*
 2.  **Model Export Scale:** `2` (Adjust this value if you intend to make significantly larger or smaller buildings).
-3.  **Includes:** * **Embed Textures:** OFF
+3.  **Includes:**
+    * **Embed Textures:** OFF
     * **Export Groups as Armature:** OFF
     * **Export Animations:** OFF
     * *We only require the Mesh data.*
