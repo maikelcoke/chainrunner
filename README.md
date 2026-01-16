@@ -74,6 +74,3 @@ If you have questions or run into issues, join our community:
 ### ☕ Support the Project
 Chain Runner 2079 is a free-to-play passion project. If you'd like to support the development, consider a small contribution:
 [Support on Ko-fi](https://ko-fi.com/chainrunner2079)
-
----
-*Created by Tycoopolis Development Team 2026*
